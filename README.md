@@ -11,7 +11,7 @@ This repository contains a Java-based company management system that utilizes **
 
 ## Technologies Used
 - Java
-- OOP concepts (Encapsulation, Inheritance, Polymorphism)
+- OOP concepts (Encapsulation, Inheritance, Polymorphism,abstraction)
   
 ## How to Run
 Compile and run the `Main.java` file using a Java compiler:
